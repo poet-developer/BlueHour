@@ -2,7 +2,7 @@
 ### :dizzy:&nbsp;&nbsp;Project Statement
 Media Art Project 'BlueHour' for 2018 Hongik University Digital Media Design Graduation Exhibition.
 
-### :monocle_face:&nbsp;&nbsp;[포트폴리오 | Portfolio](https://drive.google.com/file/d/1p5QxPrdWNiq6GsHxe97zccRekT8T8y-F/view?usp=sharing)
+### :monocle_face:&nbsp;&nbsp;<a href="https://drive.google.com/file/d/1p5QxPrdWNiq6GsHxe97zccRekT8T8y-F/view?usp=sharing" target="_blank">포트폴리오 | Portfolio</a>
 ![파란시간](https://user-images.githubusercontent.com/90435185/205228171-6422033b-c871-422b-b5bd-da8d0c458811.png)
 ### :running:&nbsp;이미지클릭 : 영상 보러가기
 [![전시현장](https://user-images.githubusercontent.com/90435185/205224642-6ce30934-cf33-4a0b-828e-a10dfe5536c5.png)](https://vimeo.com/305223641)
